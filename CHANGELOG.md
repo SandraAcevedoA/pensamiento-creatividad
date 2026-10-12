@@ -4,6 +4,14 @@
 
 ## English
 
+### 0.1.2 · 2026-10-12
+
+`LICENSE` added: CC BY-NC-SA 4.0, the same license as the series. `README.md` states it, together with the free use granted to The Multiverse School and Liz Howard.
+
+| Claim | What would disprove it | Check | Result |
+|---|---|---|---|
+| `LICENSE` is the official CC BY-NC-SA 4.0 legal code, unmodified, and the same file as in the series repository. | Any byte differing from `creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt` or from the `LICENSE` of `serie-discernimiento-creatividad`. | Byte comparison against both, 2026-10-12. | PASS |
+
 ### 0.1.1 · 2026-10-12
 
 The syllabus now follows the published web walkthrough: the four grounding panels are Creatividad, Proceso, Mediación and Criterio, with the two cases the panels show; each lab stage uses the step names of the web; the closing includes reclaiming the work and the bridge to chapter 2. The vocabulary gains an annex by modality (image, sound and music, voice, object and design, creative writing) and its introduction describes the current workshop. The 200 qualities are unchanged.
@@ -29,6 +37,14 @@ First version: the workshop material that is already public at The Multiverse Sc
 ---
 
 ## Español
+
+### 0.1.2 · 2026-10-12
+
+Se agrega `LICENSE`: CC BY-NC-SA 4.0, la misma licencia de la serie. `README.md` lo declara, junto con el uso libre que se entrega a The Multiverse School y a Liz Howard.
+
+| Claim | Qué lo desmentiría | Verificación | Resultado |
+|---|---|---|---|
+| `LICENSE` es el texto legal oficial de CC BY-NC-SA 4.0, sin modificar, y el mismo archivo del repositorio de la serie. | Cualquier byte distinto de `creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt` o del `LICENSE` de `serie-discernimiento-creatividad`. | Comparación byte a byte contra ambos, 2026-10-12. | PASS |
 
 ### 0.1.1 · 2026-10-12
 

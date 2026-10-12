@@ -23,6 +23,7 @@ This repository mirrors the workshop material that is already public at The Mult
 | [`resources/vocabulario-critico.md`](resources/vocabulario-critico.md) | *Vocabulario crítico*: 200 qualities for directing and evaluating work with AI, bilingual, plus an annex in Spanish by modality (image, sound and music, voice, object and design, creative writing) | [HedgeDoc](https://docs.themultiverse.school/VuikhAQWS6ihlAauii60yg) |
 | [`resources/make-it-yours-es.md`](resources/make-it-yours-es.md) | *¡Aprópiatelo!* · Make It Yours, by Liz Howard, in Spanish | [HedgeDoc](https://docs.themultiverse.school/s/m4b__invb) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Versions and verifiable claims | |
+| [`LICENSE`](LICENSE) | CC BY-NC-SA 4.0, the same license as the series | |
 
 ### Using the web walkthrough offline
 
@@ -36,7 +37,9 @@ This repository mirrors the workshop material that is already public at The Mult
 
 ### Author and license
 
-Created by **Sandra Acevedo**. The license for this repository has not been set yet.
+Created by **Sandra Acevedo**. Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE), the same license as the series.
+
+This workshop is an adaptation of material from The Multiverse School. The Multiverse School and Liz Howard may freely use and adapt everything Sandra Acevedo created here.
 
 ---
 
@@ -59,6 +62,7 @@ Este repositorio refleja el material del workshop que ya es público en The Mult
 | [`resources/vocabulario-critico.md`](resources/vocabulario-critico.md) | *Vocabulario crítico*: 200 cualidades para dirigir y evaluar trabajo con IA, bilingüe, más un anexo en español por modalidad (imagen, sonido y música, voz, objeto y diseño, texto creativo) | [HedgeDoc](https://docs.themultiverse.school/VuikhAQWS6ihlAauii60yg) |
 | [`resources/make-it-yours-es.md`](resources/make-it-yours-es.md) | *¡Aprópiatelo!* · Make It Yours, de Liz Howard, en español | [HedgeDoc](https://docs.themultiverse.school/s/m4b__invb) |
 | [`CHANGELOG.md`](CHANGELOG.md) | Versiones y claims verificables | |
+| [`LICENSE`](LICENSE) | CC BY-NC-SA 4.0, la misma licencia de la serie | |
 
 ### Usar el recorrido web sin conexión
 
@@ -72,4 +76,6 @@ Este repositorio refleja el material del workshop que ya es público en The Mult
 
 ### Autoría y licencia
 
-Creado por **Sandra Acevedo**. La licencia de este repositorio todavía no está definida.
+Creado por **Sandra Acevedo**. Publicado bajo licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](LICENSE), la misma de la serie.
+
+Este workshop es una adaptación de material de The Multiverse School. The Multiverse School y Liz Howard pueden usar y adaptar libremente todo lo que Sandra Acevedo creó aquí.
