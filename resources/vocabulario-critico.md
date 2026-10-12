@@ -1,36 +1,39 @@
 # Vocabulario crítico para trabajar con IA
 ## 200 cualidades de pensamiento crítico y mediación creativa
 
-**Edición bilingüe, adaptada al workshop [Pensamiento y Creatividad Soberana](https://docs.themultiverse.school/jbqGH4-LS42z50-i8Pvx7w)**  
+**Edición bilingüe, adaptada al workshop [Pensamiento y Creatividad Soberanos con IA](https://docs.themultiverse.school/jbqGH4-LS42z50-i8Pvx7w)**  
 **Serie:** Discernimiento humano y creatividad soberana mediada por IA  
 **Base documental:** «Critical Thinking Qualities for AI Text» (200 cualidades) y el vocabulario de facilitación de Liz Howard.
 
-> **Sobre esta edición.** El texto original en inglés presenta 200 cualidades para orientar y evaluar textos generados por IA. Esta versión conserva las trece familias conceptuales y los 200 términos, cada uno acompañado de su pregunta evaluativa traducida. La introducción, los ejemplos de uso y las conexiones pedagógicas con la mediación creativa son una adaptación nueva al contexto del workshop, no afirmaciones atribuidas al autor del listado.
+> **Sobre esta edición.** El texto original en inglés presenta 200 cualidades para orientar y evaluar textos generados por IA. Esta versión conserva las trece familias conceptuales y las 200 entradas, cada una con su término original, su adaptación al español y su pregunta evaluativa traducida. La introducción, los ejemplos de uso, las conexiones con el workshop y el anexo por modalidades son una adaptación situada de Sandra Acevedo para este workshop; no forman parte del listado original de Liz Howard.
 
 ## Introducción: del adjetivo al criterio
 
-En un proceso de creatividad mediada por IA, las palabras no solo describen lo que esperamos de un resultado: también establecen cuánto criterio aportamos y cuánto dejamos en manos del modelo. Pedir «hazlo mejor», «más bueno», «más cool», «más chévere», «más rico» o «más entretenido» puede comunicar una intuición legítima, pero no explica **qué dimensión debe cambiar**, **para quién**, **en relación con qué propósito** ni **cómo sabremos si el cambio funcionó**.
+Este vocabulario sirve para una operación muy concreta del workshop: **pasar de una reacción vaga a una condición que podamos observar, pedir y evaluar**.
 
-Esos términos no son defectuosos por sí mismos. Pueden ser el comienzo de una observación estética, cultural o afectiva muy precisa. El problema surge cuando los tratamos como instrucciones suficientes: entonces el modelo necesita completar los vacíos con asociaciones estadísticas, convenciones dominantes o suposiciones sobre nuestras preferencias. El resultado puede sonar convincente y, aun así, alejarse de la intención de quien crea.
+Palabras como «mejor», «interesante», «cool», «oscuro», «orgánico», «elegante» o «más mío» pueden nombrar una intuición perfectamente válida. El problema aparece cuando las tratamos como instrucciones suficientes. Por sí solas no dicen **qué queremos conservar**, **qué queremos modificar**, **qué queremos evitar** ni **cómo reconoceremos que una propuesta nos sirve**.
 
-Este vocabulario permite convertir intuiciones en **criterios de trabajo explícitos**. Nombra cualidades de un argumento, una investigación, un texto o una propuesta, y las transforma en preguntas revisables. Funciona en tres momentos distintos:
+El objetivo no es reemplazar el gusto, la intuición o la experiencia por lenguaje técnico. Es poder **nombrar con más precisión qué estamos viendo y qué queremos dirigir**.
 
-1. **Antes de generar:** definir estándares, restricciones, públicos, fuentes, efectos buscados y decisiones que no queremos delegar.
-2. **Durante la colaboración:** pedir variaciones acotadas, contrastar enfoques, hacer visibles supuestos y justificar cambios.
-3. **Después de generar:** examinar el resultado con una rúbrica, identificar incertidumbres, corregir y conservar la decisión final.
+En el laboratorio usamos este vocabulario dentro de un recorrido simple:
 
-El punto no es introducir doscientas exigencias en un único prompt. Esta es una **caja de herramientas para seleccionar criterios pertinentes**, no una lista de condiciones universales. Algunos sirven para verificar hechos; otros, para analizar consecuencias, conservar una voz, discutir valores o evaluar un producto creativo. Aplicarlos todos indiscriminadamente puede producir texto rígido, sobreexplicado o artificial.
+1. **Detectar lenguaje vago.** Describir el resultado que buscamos y localizar palabras que todavía dejan demasiado abierto.
+2. **Especificar.** Traducir esas intuiciones en propiedades observables y convertirlas en **3 o 4 condiciones de aceptación**: «Para que una propuesta me sirva, necesito que…».
+3. **Delegar.** Decidir qué operación queremos que haga la IA y darle el material, las restricciones y las condiciones pertinentes.
+4. **Evaluar y decidir.** Comparar lo recibido con nuestras condiciones y decidir si lo aceptamos, lo modificamos o abandonamos esa rama.
 
-### Cuándo importa cada familia de criterios
+El punto no es usar doscientas cualidades a la vez. Este documento es un **menú de lenguaje crítico**, no una lista universal de exigencias. Una persona puede necesitar tres términos; otra, ninguno de la lista principal y varios del anexo por modalidad.
 
-| Momento del proceso | Preguntas y cualidades útiles | Para qué sirve |
+Las 200 cualidades originales están especialmente orientadas a **texto, razonamiento y argumentación**. Por eso esta edición agrega al final un anexo breve para imagen, sonido y música, voz e intervención oral, objeto y diseño, y texto creativo o narrativo. Ese anexo no amplía ni modifica la taxonomía original: existe para que el vocabulario acompañe las modalidades con las que realmente se puede trabajar en este workshop.
+
+### Cómo usar este documento en el laboratorio
+
+| Momento | Qué haces | Para qué sirve el vocabulario |
 |---|---|---|
-| **Investigación y exploración** | Fuentes, evidencia, incertidumbre calibrada, sesgos, distinción entre hechos y opiniones | Evitar que plausibilidad narrativa se confunda con conocimiento verificado. |
-| **Planteamiento del problema** | Claridad de definiciones, primeros principios, supuestos, causas raíz, perspectivas | Delimitar qué problema se aborda y cuáles interpretaciones siguen abiertas. |
-| **Fundamentación de soluciones** | Validez, análisis comparativo, restricciones, compensaciones, causalidad | Poder explicar por qué una propuesta responde al problema y qué sacrifica. |
-| **Desarrollo de una obra o artefacto** | Propósito, estructura, tono, autenticidad, sensibilidad cultural, público | Traducir una intención expresiva en decisiones que puedan discutirse y revisarse. |
-| **Impacto del proyecto** | Actores afectados, segundo y tercer orden, conflictos de valores, viabilidad | Anticipar consecuencias, límites y responsabilidades. |
-| **Evaluación y revisión** | Consistencia, relevancia, alcance, corrección de errores, transparencia del método | Comparar versiones contra estándares elegidos por la persona, no por la IA. |
+| **Detectar lenguaje vago** | Revisas cómo describiste lo que buscas. | Encontrar una propiedad más precisa detrás de palabras como «mejor», «orgánico» o «interesante». |
+| **Formular condiciones de aceptación** | Eliges 3 o 4 condiciones que realmente importan en este trabajo. | Convertir preferencias e intención en algo que luego puedas observar y comparar. |
+| **Delegar con criterio** | Defines qué operación hará la IA y bajo qué condiciones. | Reducir ambigüedad sin entregar a la herramienta la decisión sobre lo que vale. |
+| **Evaluar, decidir e iterar** | Comparas el resultado con tus condiciones. | Nombrar qué cumple, qué se desvía y qué merece ser aceptado, modificado o abandonado. |
 
 ### Del juicio subjetivo a una indicación situada
 
@@ -39,20 +42,22 @@ El punto no es introducir doscientas exigencias en un único prompt. Esta es una
 | «Está bueno» | ¿Bueno en qué dimensión? | «Evalúa si la conclusión se sostiene en la evidencia citada y señala dos supuestos sin comprobar». |
 | «Hazlo más cool» | ¿Para quién y según qué código cultural? | «Conserva la voz irreverente, reduce solemnidad y evita clichés de publicidad tecnológica». |
 | «Quiero que sea entretenido» | ¿Entretenimiento por sorpresa, ritmo, humor o tensión? | «Aumenta la tensión de las escenas sin añadir personajes; alterna momentos breves de humor seco y conflicto». |
-| «Que quede más rico» | ¿Habla de sabor, textura, una experiencia sensorial o estilo? | «Si se trata de una receta, prioriza contraste entre acidez y dulzor y describe textura; si se trata de prosa, concreta el efecto sensorial buscado». |
-| «Esta solución es mejor» | ¿Mejor en costo, acceso, impacto o reversibilidad? | «Compara ambas opciones por costo, accesibilidad, riesgos de implementación y posibilidad de revertir la decisión». |
+| «Quiero una imagen más orgánica» | ¿Orgánica por la línea, la textura, la composición o la irregularidad? | «Conserva la retícula rígida, pero usa una línea continua irregular y una distribución menos simétrica de los elementos». |
+| «Quiero que el sonido tenga más aire» | ¿Menos densidad, más silencio, otra espacialidad? | «Reduce capas simultáneas y deja pausas audibles entre eventos; conserva el contraste dinámico». |
 
-La especificidad reduce el espacio de interpretación del modelo, pero **no elimina la incertidumbre ni garantiza exactitud**. Una instrucción precisa también puede exigir datos que no existen. Por eso conviene complementar los estándares con un límite operativo: «Si faltan datos, identifícalos; distingue los supuestos de los hechos; no inventes fuentes ni cifras para completar la respuesta».
+La especificidad **no garantiza exactitud ni un resultado correcto**. Solo hace más visible qué estamos intentando dirigir y con qué criterio vamos a juzgar lo que recibamos.
 
 ### Tres usos concretos del vocabulario
 
-**Como directiva de creación:** «Reescribe este argumento aplicando claridad definicional y rigor causal. Conserva mi postura, pero separa correlación de causalidad».
+**Como condición de aceptación:** «Necesito que la composición mantenga una jerarquía visual clara y contraste tonal suficiente para distinguir el foco principal».
 
-**Como lente de investigación:** «Examina la representatividad de la muestra, la calidad de las fuentes y la evidencia contradictoria. Marca lo que todavía no es verificable».
+**Como directiva de transformación:** «Mantén la estructura y la voz, pero reduce densidad, aumenta precisión semántica y elimina repeticiones que no aportan ritmo».
 
-**Como criterio de evaluación:** «Compara las dos versiones según coherencia, propósito, autenticidad y pertinencia cultural. Justifica cada observación con un fragmento concreto».
+**Como criterio de evaluación:** «Compara esta propuesta con mis condiciones: textura sonora, uso del silencio y contraste dinámico. Indica qué cumple y qué se desvía».
 
-Esto se conecta con el recorrido del workshop: aprender a observar antes de pedir, investigar fuentes e influencias, convertir preferencias en criterios, colaborar bajo restricciones y documentar qué decisiones podemos explicar y defender como propias. **La IA puede proponer y evaluar; el estándar y la decisión de conservar pertenecen al proceso humano de autoría.**
+Esto se conecta directamente con el recorrido actual del workshop: **plantear sin IA, hacer visible lo que ya traemos, nombrar con más precisión lo que importa, formular condiciones de aceptación, decidir qué operación delegar y evaluar el resultado para aceptarlo, modificarlo o abandonar esa rama**.
+
+La IA puede proponer, transformar, analizar o comparar. **El estándar desde el que se decide qué sirve sigue perteneciendo a la persona que dirige el proceso.**
 
 ---
 
@@ -268,9 +273,6 @@ Esto se conecta con el recorrido del workshop: aprender a observar antes de pedi
 
 ## XI. Lentes críticos específicos por disciplina
 
-| N.º | Término original | Traducción / adaptación | Pregunta evaluativa en español |
-|---:|---|---|---|
-
 ### Escritura científica
 
 | N.º | Término original | Traducción / adaptación | Pregunta evaluativa en español |
@@ -470,14 +472,104 @@ Esto se conecta con el recorrido del workshop: aprender a observar antes de pedi
 
 ---
 
+## Anexo · Vocabulario crítico por modalidad
+
+> **Ampliación de Sandra Acevedo para este workshop.** Este anexo no forma parte de las 200 cualidades de *Critical Thinking Qualities for AI Text* ni del glosario de facilitación de Liz Howard. Se agrega porque el laboratorio permite trabajar con medios distintos del texto y necesita vocabulario suficiente para convertir intuiciones en condiciones observables.
+
+Las entradas están **solo en español** porque no traducen una lista original en inglés. No continúan la numeración 1–200.
+
+Úsalas del mismo modo que el resto del documento: no como una lista que debas completar, sino como un menú para terminar frases como:
+
+> **Para que una propuesta me sirva, necesito que…**
+
+### Imagen y composición visual
+
+| Cualidad | Pregunta evaluativa |
+|---|---|
+| **Composición** | ¿Cómo se distribuyen y relacionan los elementos dentro del encuadre? |
+| **Contraste** | ¿Las diferencias de luz, color, forma o escala hacen visibles las relaciones que importan? |
+| **Textura visual** | ¿La superficie se percibe lisa, rugosa, orgánica, mecánica, densa u otra, y esa cualidad sirve a la intención? |
+| **Escala** | ¿El tamaño relativo de los elementos produce la jerarquía o relación buscada? |
+| **Valor tonal** | ¿La relación entre luces, medios tonos y sombras sostiene la legibilidad y el foco? |
+| **Ritmo visual** | ¿La repetición, alternancia o separación de elementos produce el ritmo buscado? |
+| **Saturación** | ¿La intensidad del color está controlada de acuerdo con el efecto buscado? |
+| **Jerarquía visual** | ¿Está claro qué vemos primero, después y al final? |
+| **Espacio negativo** | ¿El vacío alrededor y entre los elementos contribuye a la composición? |
+| **Balance visual** | ¿El peso visual está distribuido de la manera que requiere la propuesta, sea estable o deliberadamente inestable? |
+
+### Sonido y música
+
+| Cualidad | Pregunta evaluativa |
+|---|---|
+| **Dinámica** | ¿La variación de intensidad produce el arco o contraste buscado? |
+| **Silencio** | ¿Las pausas y ausencias cumplen una función perceptible en la pieza? |
+| **Textura sonora** | ¿La cantidad y relación de capas producen la densidad o superficie sonora buscada? |
+| **Repetición** | ¿Lo que se repite genera continuidad, insistencia, memoria o tensión de manera deliberada? |
+| **Tempo** | ¿La velocidad sostiene la energía y el carácter que se buscan? |
+| **Contraste sonoro** | ¿Las diferencias entre secciones, timbres, intensidades o densidades son suficientes para producir el efecto deseado? |
+| **Timbre** | ¿La cualidad del sonido de las fuentes o voces corresponde al carácter buscado? |
+| **Densidad sonora** | ¿Hay la cantidad adecuada de eventos o capas simultáneas para este momento? |
+| **Espacialidad** | ¿La sensación de cercanía, distancia, amplitud o ubicación de los sonidos sirve a la experiencia? |
+| **Articulación** | ¿Los ataques, cortes, transiciones y duraciones de los sonidos tienen la definición que requiere la pieza? |
+
+### Voz e intervención oral
+
+| Cualidad | Pregunta evaluativa |
+|---|---|
+| **Cadencia** | ¿El patrón de aceleraciones, desaceleraciones y pausas sostiene la intención de la intervención? |
+| **Ritmo de habla** | ¿La velocidad permite comprender y sentir el énfasis donde corresponde? |
+| **Pausa** | ¿Los silencios crean espacio, tensión, claridad o transición de forma deliberada? |
+| **Énfasis** | ¿Las palabras o ideas importantes reciben una marcación perceptible? |
+| **Proyección** | ¿La intensidad y presencia de la voz corresponden al espacio y a la audiencia? |
+| **Articulación verbal** | ¿Las palabras se distinguen con la claridad necesaria sin volver la entrega artificial? |
+| **Registro** | ¿El grado de formalidad, cercanía o coloquialidad corresponde a la situación? |
+| **Prosodia** | ¿La variación de tono, acento y entonación sostiene el sentido que se quiere comunicar? |
+| **Densidad verbal** | ¿La cantidad de información por tramo permite seguir la intervención sin perder el hilo? |
+| **Relación con la audiencia** | ¿La forma de dirigirse a quienes escuchan produce la cercanía, distancia o participación buscada? |
+
+### Objeto y diseño
+
+| Cualidad | Pregunta evaluativa |
+|---|---|
+| **Función** | ¿El objeto permite realizar la operación para la que se está diseñando? |
+| **Jerarquía funcional** | ¿Las funciones principales y secundarias están ordenadas de acuerdo con la necesidad real? |
+| **Legibilidad de uso** | ¿La forma del objeto permite entender cómo interactuar con él sin depender de explicaciones innecesarias? |
+| **Ergonomía** | ¿La relación entre cuerpo, postura, esfuerzo y uso resulta adecuada para la tarea? |
+| **Escala física** | ¿El tamaño del objeto y de sus componentes corresponde al cuerpo, espacio o sistema donde se utilizará? |
+| **Proporción** | ¿Las relaciones entre partes producen la estabilidad, legibilidad o carácter buscados? |
+| **Materialidad** | ¿Las propiedades de los materiales elegidos sirven a la función, la duración y la experiencia buscadas? |
+| **Ensamble** | ¿La manera en que las partes se conectan facilita construir, desmontar, reparar o modificar? |
+| **Modularidad** | ¿Las partes pueden reemplazarse, reorganizarse o reutilizarse sin rehacer el sistema completo? |
+| **Reparabilidad** | ¿El diseño permite acceder a los componentes que probablemente necesiten mantenimiento o reemplazo? |
+
+### Texto creativo y narrativo
+
+| Cualidad | Pregunta evaluativa |
+|---|---|
+| **Precisión** | ¿Las palabras producen el significado específico que necesita el texto? |
+| **Tono** | ¿La actitud o temperatura emocional del texto se sostiene de manera coherente con su intención? |
+| **Estructura** | ¿La organización de escenas, ideas o fragmentos sostiene el recorrido que se quiere producir? |
+| **Densidad** | ¿La cantidad de información, imágenes o ideas por tramo corresponde al ritmo buscado? |
+| **Ambigüedad** | ¿Lo que queda abierto o indeterminado está abierto de forma deliberada y productiva? |
+| **Ritmo** | ¿La longitud, repetición, pausa y secuencia de frases o escenas producen el movimiento buscado? |
+| **Claridad** | ¿Se entiende lo que necesita entenderse sin cerrar aquello que conviene mantener abierto? |
+| **Voz** | ¿Las decisiones de vocabulario, sintaxis, perspectiva y registro producen una presencia reconocible? |
+| **Tensión** | ¿Existe una fuerza, pregunta o conflicto que mantenga movimiento dentro del texto? |
+| **Detalle sensorial** | ¿Los detalles concretos hacen perceptible la experiencia sin saturarla ni volverla genérica? |
+
+Para **ideas, problemas, investigación y argumentación**, las 200 cualidades originales ya ofrecen vocabulario amplio sobre claridad, evidencia, causalidad, supuestos, perspectivas, restricciones, relevancia, incertidumbre y toma de decisiones.
+
+---
+
 ## Procedencia y fuentes
 
 1. **Fuente principal (200 cualidades):** documento aportado «Critical-Thinking-Qualities-4-AI-Text.md», _Critical Thinking Qualities for AI Text_. Se conservaron el orden, los nombres originales, las trece familias y las preguntas evaluativas en traducción.
-2. **Marco curricular de la adaptación:** documento aportado «pensamiento-creatividad_syllabus.md», _Pensamiento y Creatividad Soberana_.
-3. **Material bilingüe preexistente:** _Vocabulario crítico para trabajar con IA_, elaborado a partir de materiales y facilitaciones de Liz Howard. Sus ocho apartados se preservan en esta edición.
+2. **Marco curricular actual de la adaptación:** [syllabus de _Pensamiento y Creatividad Soberanos con IA_](https://docs.themultiverse.school/jbqGH4-LS42z50-i8Pvx7w), reconciliado con el recorrido web y el laboratorio publicado.
+3. **Material bilingüe preexistente:** _Vocabulario crítico para trabajar con IA_, elaborado a partir de materiales y facilitaciones de Liz Howard. Sus apartados se preservan en esta edición.
 4. [2.1 LLM Critical Thinking Vocabulary](https://github.com/lizTheDeveloper/multiverse_school_curriculum/blob/main/Curriculum/Generative%20AI/0%20-%20Using%20Large%20Language%20Models/Workshop%202%20-%20Expert%20Personas%20and%20Critical%20Analysis/2.1%20LLM%20Critical%20Thinking%20Vocabulary.md)
 5. [Critical Thinking and Language Models](https://github.com/lizTheDeveloper/multiverse_school_curriculum/blob/main/Curriculum/Autonomous%20Agents/Prompt%20Engineering/Workshop%201%20-%20Critical%20Thinking%20and%20Language%20Models/Workshop%201%20-%20Critical%20Thinking%20and%20Language%20Models.md)
 6. Transcripción de facilitación citada en el glosario anterior (1:13:43–1:20:40).
 7. [Gist de la taxonomía de 200 cualidades](https://gist.github.com/lizthedotdev/5c142b13159c24193bfc81b65611692f).
+8. **Anexo «Vocabulario crítico por modalidad»:** ampliación de Sandra Acevedo para este workshop. No forma parte del listado de 200 cualidades ni del glosario de Liz Howard.
 
-*Adaptación pedagógica al español para Pensamiento y Creatividad Soberana.*
+*Adaptación pedagógica al español para Pensamiento y Creatividad Soberanos con IA.*
