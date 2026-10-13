@@ -484,78 +484,78 @@ Las entradas están **solo en español** porque no traducen una lista original e
 
 ### Imagen y composición visual
 
-| Cualidad | Pregunta evaluativa |
-|---|---|
-| **Composición** | ¿Cómo se distribuyen y relacionan los elementos dentro del encuadre? |
-| **Contraste** | ¿Las diferencias de luz, color, forma o escala hacen visibles las relaciones que importan? |
-| **Textura visual** | ¿La superficie se percibe lisa, rugosa, orgánica, mecánica, densa u otra, y esa cualidad sirve a la intención? |
-| **Escala** | ¿El tamaño relativo de los elementos produce la jerarquía o relación buscada? |
-| **Valor tonal** | ¿La relación entre luces, medios tonos y sombras sostiene la legibilidad y el foco? |
-| **Ritmo visual** | ¿La repetición, alternancia o separación de elementos produce el ritmo buscado? |
-| **Saturación** | ¿La intensidad del color está controlada de acuerdo con el efecto buscado? |
-| **Jerarquía visual** | ¿Está claro qué vemos primero, después y al final? |
-| **Espacio negativo** | ¿El vacío alrededor y entre los elementos contribuye a la composición? |
-| **Balance visual** | ¿El peso visual está distribuido de la manera que requiere la propuesta, sea estable o deliberadamente inestable? |
+| Petición ambigua | Qué permite observar o decidir | Cualidad crítica |
+|---|---|---|
+| «Quiero que se vea mejor distribuido» / «Que los elementos funcionen mejor juntos» | Cómo se distribuyen y relacionan los elementos dentro del encuadre. | **Composición** |
+| «Quiero que destaque más» / «Que tenga más fuerza» | Las diferencias de luz, color, forma o escala que hacen visibles las relaciones importantes. | **Contraste** |
+| «Quiero que se vea más orgánico» / «Que no se vea tan limpio» | Cómo se percibe la superficie: lisa, rugosa, orgánica, mecánica, densa u otra. | **Textura visual** |
+| «Quiero que esto se sienta más importante» / «Que no se vea tan chico» | El tamaño relativo de los elementos y la relación de importancia que produce. | **Escala** |
+| «Está muy plano» / «Quiero más profundidad» | La relación entre luces, medios tonos y sombras, y cómo afecta la legibilidad y el foco. | **Valor tonal** |
+| «Quiero que tenga más movimiento» / «Que no se sienta tan estático» | La repetición, alternancia o separación de elementos y el movimiento visual que producen. | **Ritmo visual** |
+| «Quiero más color» / «Que no se vea tan chillón» | La intensidad de los colores y cuánto protagonismo adquieren dentro de la imagen. | **Saturación** |
+| «No sé dónde mirar» / «Quiero que lo importante se note primero» | El orden en que la mirada encuentra los elementos y cuál recibe mayor atención. | **Jerarquía visual** |
+| «Está demasiado lleno» / «Necesita más aire» | El uso del vacío alrededor y entre los elementos y su efecto sobre la composición. | **Espacio negativo** |
+| «Se siente desordenado» / «Hay algo raro en cómo está repartido» | Cómo se distribuye el peso visual y si la propuesta necesita estabilidad o desequilibrio deliberado. | **Balance visual** |
 
 ### Sonido y música
 
-| Cualidad | Pregunta evaluativa |
-|---|---|
-| **Dinámica** | ¿La variación de intensidad produce el arco o contraste buscado? |
-| **Silencio** | ¿Las pausas y ausencias cumplen una función perceptible en la pieza? |
-| **Textura sonora** | ¿La cantidad y relación de capas producen la densidad o superficie sonora buscada? |
-| **Repetición** | ¿Lo que se repite genera continuidad, insistencia, memoria o tensión de manera deliberada? |
-| **Tempo** | ¿La velocidad sostiene la energía y el carácter que se buscan? |
-| **Contraste sonoro** | ¿Las diferencias entre secciones, timbres, intensidades o densidades son suficientes para producir el efecto deseado? |
-| **Timbre** | ¿La cualidad del sonido de las fuentes o voces corresponde al carácter buscado? |
-| **Densidad sonora** | ¿Hay la cantidad adecuada de eventos o capas simultáneas para este momento? |
-| **Espacialidad** | ¿La sensación de cercanía, distancia, amplitud o ubicación de los sonidos sirve a la experiencia? |
-| **Articulación** | ¿Los ataques, cortes, transiciones y duraciones de los sonidos tienen la definición que requiere la pieza? |
+| Petición ambigua | Qué permite observar o decidir | Cualidad crítica |
+|---|---|---|
+| «Quiero que tenga más fuerza» / «Que no suene todo igual» | Los cambios de intensidad y el arco que producen a lo largo de la pieza. | **Dinámica** |
+| «Necesita respirar» / «Hay sonido todo el rato» | Cómo las pausas y ausencias pueden crear espacio, separación, tensión o expectativa. | **Silencio** |
+| «Quiero que suene más lleno» / «Que sea menos pesado» | La relación entre las distintas capas y la superficie sonora que producen juntas. | **Textura sonora** |
+| «Quiero que sea más pegajoso» / «Que algo vuelva y se reconozca» | Qué elementos se repiten y si producen continuidad, insistencia, memoria o tensión. | **Repetición** |
+| «Quiero que tenga más energía» / «Que vaya más tranquilo» | La velocidad general y su relación con la energía y el carácter de la pieza. | **Tempo** |
+| «Quiero que cambie más» / «Todo suena demasiado parecido» | Las diferencias entre secciones, timbres, intensidades o densidades. | **Contraste sonoro** |
+| «Quiero que suene más cálido» / «Que sea menos metálico» | El carácter particular de una fuente, instrumento o voz, independientemente de la nota o volumen. | **Timbre** |
+| «Hay demasiadas cosas pasando» / «Le falta cuerpo» | La cantidad de eventos o capas que ocurren simultáneamente. | **Densidad sonora** |
+| «Quiero que se sienta más grande» / «Que parezca más cerca» | La sensación de cercanía, distancia, amplitud y ubicación de las fuentes sonoras. | **Espacialidad** |
+| «Quiero que los sonidos estén más definidos» / «Que no se sientan tan cortados» | La forma de los ataques, cortes, transiciones y duraciones de cada sonido. | **Articulación** |
 
 ### Voz e intervención oral
 
-| Cualidad | Pregunta evaluativa |
-|---|---|
-| **Cadencia** | ¿El patrón de aceleraciones, desaceleraciones y pausas sostiene la intención de la intervención? |
-| **Ritmo de habla** | ¿La velocidad permite comprender y sentir el énfasis donde corresponde? |
-| **Pausa** | ¿Los silencios crean espacio, tensión, claridad o transición de forma deliberada? |
-| **Énfasis** | ¿Las palabras o ideas importantes reciben una marcación perceptible? |
-| **Proyección** | ¿La intensidad y presencia de la voz corresponden al espacio y a la audiencia? |
-| **Articulación verbal** | ¿Las palabras se distinguen con la claridad necesaria sin volver la entrega artificial? |
-| **Registro** | ¿El grado de formalidad, cercanía o coloquialidad corresponde a la situación? |
-| **Prosodia** | ¿La variación de tono, acento y entonación sostiene el sentido que se quiere comunicar? |
-| **Densidad verbal** | ¿La cantidad de información por tramo permite seguir la intervención sin perder el hilo? |
-| **Relación con la audiencia** | ¿La forma de dirigirse a quienes escuchan produce la cercanía, distancia o participación buscada? |
+| Petición ambigua | Qué permite observar o decidir | Cualidad crítica |
+|---|---|---|
+| «Quiero que fluya mejor» / «Que no suene tan monótono» | El patrón de aceleraciones, desaceleraciones y pausas dentro de la intervención. | **Cadencia** |
+| «Va demasiado rápido» / «Se hace eterno» | La velocidad del habla y cuánto espacio deja para comprender y reconocer énfasis. | **Ritmo de habla** |
+| «Necesita respirar» / «Quiero darle más espacio a esa idea» | Dónde aparecen silencios y qué función cumplen: claridad, tensión, énfasis o transición. | **Pausa** |
+| «Quiero que lo importante se note» / «Todo parece tener el mismo peso» | Qué palabras o ideas reciben una marcación perceptible y cuáles permanecen secundarias. | **Énfasis** |
+| «Quiero que suene con más presencia» / «Se escucha muy apagado» | La intensidad y presencia de la voz en relación con el espacio y la audiencia. | **Proyección** |
+| «Quiero que se entienda mejor» / «Se come las palabras» | Qué tan distinguibles resultan las palabras sin volver artificial la entrega. | **Articulación verbal** |
+| «Quiero que suene más natural» / «Que sea más profesional» | El grado de formalidad, cercanía o coloquialidad apropiado para la situación. | **Registro** |
+| «Suena muy plano» / «Parece robótico» | Cómo las variaciones de tono, acento y entonación modifican el sentido de lo dicho. | **Prosodia** |
+| «Es demasiado para escuchar de una vez» / «Quiero que tenga más contenido» | La cantidad de información presentada en cada tramo y la capacidad de seguir el hilo. | **Densidad verbal** |
+| «Quiero que conecte más con la gente» / «Suena demasiado distante» | Cómo la forma de dirigirse a quienes escuchan produce cercanía, distancia o participación. | **Relación con la audiencia** |
 
 ### Objeto y diseño
 
-| Cualidad | Pregunta evaluativa |
-|---|---|
-| **Función** | ¿El objeto permite realizar la operación para la que se está diseñando? |
-| **Jerarquía funcional** | ¿Las funciones principales y secundarias están ordenadas de acuerdo con la necesidad real? |
-| **Legibilidad de uso** | ¿La forma del objeto permite entender cómo interactuar con él sin depender de explicaciones innecesarias? |
-| **Ergonomía** | ¿La relación entre cuerpo, postura, esfuerzo y uso resulta adecuada para la tarea? |
-| **Escala física** | ¿El tamaño del objeto y de sus componentes corresponde al cuerpo, espacio o sistema donde se utilizará? |
-| **Proporción** | ¿Las relaciones entre partes producen la estabilidad, legibilidad o carácter buscados? |
-| **Materialidad** | ¿Las propiedades de los materiales elegidos sirven a la función, la duración y la experiencia buscadas? |
-| **Ensamble** | ¿La manera en que las partes se conectan facilita construir, desmontar, reparar o modificar? |
-| **Modularidad** | ¿Las partes pueden reemplazarse, reorganizarse o reutilizarse sin rehacer el sistema completo? |
-| **Reparabilidad** | ¿El diseño permite acceder a los componentes que probablemente necesiten mantenimiento o reemplazo? |
+| Petición ambigua | Qué permite observar o decidir | Cualidad crítica |
+|---|---|---|
+| «Quiero que funcione mejor» / «Necesito que realmente sirva» | Qué operación debe permitir realizar el objeto y si efectivamente puede cumplirla. | **Función** |
+| «Quiero que haga varias cosas» / «Lo importante debería ser más fácil» | Qué funciones son principales, cuáles secundarias y cómo deben ordenarse según la necesidad real. | **Jerarquía funcional** |
+| «Quiero que sea intuitivo» / «Que se entienda cómo usarlo» | Qué señales de la forma indican cómo agarrar, activar, mover o utilizar el objeto. | **Legibilidad de uso** |
+| «Quiero que sea cómodo» / «Que no sea tan incómodo de usar» | La relación entre cuerpo, postura, esfuerzo, movimiento y tarea. | **Ergonomía** |
+| «Está demasiado grande» / «Necesito que quepa mejor» | La relación entre el tamaño del objeto, sus componentes, el cuerpo y el espacio donde funcionará. | **Escala física** |
+| «Las partes se ven raras» / «Algo está desbalanceado» | Las relaciones de tamaño y forma entre las partes y cómo afectan estabilidad, legibilidad o carácter. | **Proporción** |
+| «Quiero que se sienta resistente» / «Que no parezca tan plástico» | Qué propiedades físicas, visuales y táctiles aportan los materiales a la función, duración y experiencia. | **Materialidad** |
+| «Quiero que sea fácil de armar» / «No quiero que quede todo pegado para siempre» | Cómo se conectan las partes y si esa conexión permite construir, desmontar o modificar. | **Ensamble** |
+| «Quiero poder cambiarle partes» / «Que no haya que rehacerlo completo» | Qué componentes pueden reemplazarse, reorganizarse o reutilizarse de manera independiente. | **Modularidad** |
+| «Quiero que sea fácil de arreglar» / «Si algo falla, no quiero botarlo entero» | Qué tan accesibles son los componentes que probablemente necesitarán mantenimiento o reemplazo. | **Reparabilidad** |
 
 ### Texto creativo y narrativo
 
-| Cualidad | Pregunta evaluativa |
-|---|---|
-| **Precisión** | ¿Las palabras producen el significado específico que necesita el texto? |
-| **Tono** | ¿La actitud o temperatura emocional del texto se sostiene de manera coherente con su intención? |
-| **Estructura** | ¿La organización de escenas, ideas o fragmentos sostiene el recorrido que se quiere producir? |
-| **Densidad** | ¿La cantidad de información, imágenes o ideas por tramo corresponde al ritmo buscado? |
-| **Ambigüedad** | ¿Lo que queda abierto o indeterminado está abierto de forma deliberada y productiva? |
-| **Ritmo** | ¿La longitud, repetición, pausa y secuencia de frases o escenas producen el movimiento buscado? |
-| **Claridad** | ¿Se entiende lo que necesita entenderse sin cerrar aquello que conviene mantener abierto? |
-| **Voz** | ¿Las decisiones de vocabulario, sintaxis, perspectiva y registro producen una presencia reconocible? |
-| **Tensión** | ¿Existe una fuerza, pregunta o conflicto que mantenga movimiento dentro del texto? |
-| **Detalle sensorial** | ¿Los detalles concretos hacen perceptible la experiencia sin saturarla ni volverla genérica? |
+| Petición ambigua | Qué permite observar o decidir | Cualidad crítica |
+|---|---|---|
+| «Quiero que esté mejor escrito» / «Que diga exactamente lo que quiero decir» | Si las palabras elegidas producen el significado específico que necesita el texto. | **Precisión** |
+| «Quiero que suene más oscuro» / «Que sea más cálido» | La actitud o temperatura emocional que sostiene el texto. | **Tono** |
+| «Quiero que fluya mejor» / «Que tenga más orden» | Cómo se organizan escenas, ideas o fragmentos y qué recorrido producen. | **Estructura** |
+| «Quiero que tenga más sustancia» / «Hay demasiadas cosas juntas» | Cuánta información, imágenes o ideas aparecen en cada tramo y qué efecto producen sobre el ritmo. | **Densidad** |
+| «Quiero que sea más misterioso» / «No quiero explicar todo» | Qué información queda abierta o indeterminada y si esa apertura es deliberada y productiva. | **Ambigüedad** |
+| «Quiero que tenga más ritmo» / «Se siente pesado» | Cómo longitud, repetición, pausa y secuencia producen movimiento dentro del texto. | **Ritmo** |
+| «Quiero que se entienda mejor» / «Está demasiado confuso» | Qué necesita quedar comprensible y qué puede permanecer abierto sin perder el hilo. | **Claridad** |
+| «Quiero que suene más mío» / «Le falta personalidad» | Cómo vocabulario, sintaxis, perspectiva y registro construyen una presencia reconocible. | **Voz** |
+| «Quiero que enganche más» / «No pasa nada» | Qué pregunta, conflicto, expectativa o fuerza mantiene movimiento dentro del texto. | **Tensión** |
+| «Quiero que se sienta más vivo» / «Quiero poder imaginarlo mejor» | Qué detalles concretos permiten percibir cuerpos, espacios, sonidos, texturas, olores u otras sensaciones. | **Detalle sensorial** |
 
 Para **ideas, problemas, investigación y argumentación**, las 200 cualidades originales ya ofrecen vocabulario amplio sobre claridad, evidencia, causalidad, supuestos, perspectivas, restricciones, relevancia, incertidumbre y toma de decisiones.
 
