@@ -4,6 +4,16 @@
 
 ## English
 
+### 0.1.3 · 2026-10-20
+
+The web walkthrough has its own navigation ([workbench issue #2](https://github.com/SandraAcevedoA/serie-discernimiento-humano-creatividad-mediadaxAI---workbench/issues/2)). The panel index at the bottom (1 Creatividad · 2 Proceso · 3 Mediación · 4 Criterio) is now a set of links, followed by a direct jump to the lab. Panels 02–04 have an «inicio» link back to panel 01. The lab's stage bar has a «grounding» link back to panel 01, and «Volver al grounding» now goes to panel 01 instead of the last panel. On narrow screens the same links appear below the panel text. The text of the panels and the lab is unchanged.
+
+| Claim | What would disprove it | Check | Result |
+|---|---|---|---|
+| The web walkthrough in this repository is the one published at `themultiverse.school/x/pensamiento-creatividad`. | The contents of `<body>` in `interactive/recorrido-web/index.html` not appearing verbatim in the public page. | Text comparison against an anonymous request to the public page, 2026-10-20. | PASS |
+| From every panel you can reach each of the four panels, the lab and (from panels 02–04) panel 01, and the lab's stage bar leads back to panel 01. | Any of the four new scripted checks failing. | Scripted run in Chromium at 1440, 1024 and 500 px wide, 2026-10-20. | PASS |
+| The rest of the walkthrough still works opened as a local file: panels navigate, the last panel enters the lab, the lab runs from start to closing, answers persist, and there is no horizontal overflow on a narrow screen. | Any of the other 42 scripted checks failing. | Same run, 2026-10-20. | PASS |
+
 ### 0.1.2 · 2026-10-12
 
 `LICENSE` added: CC BY-NC-SA 4.0, the same license as the series. `README.md` states it, together with the free use granted to The Multiverse School and Liz Howard.
@@ -37,6 +47,16 @@ First version: the workshop material that is already public at The Multiverse Sc
 ---
 
 ## Español
+
+### 0.1.3 · 2026-10-20
+
+El recorrido web tiene navegación propia ([issue #2 del workbench](https://github.com/SandraAcevedoA/serie-discernimiento-humano-creatividad-mediadaxAI---workbench/issues/2)). El índice de paneles de abajo (1 Creatividad · 2 Proceso · 3 Mediación · 4 Criterio) ahora son enlaces, seguidos de un salto directo al laboratorio. Los paneles 02 a 04 tienen un enlace «inicio» que vuelve al panel 01. La barra de etapas del laboratorio tiene un enlace «grounding» que vuelve al panel 01, y «Volver al grounding» ahora lleva al panel 01 en vez del último panel. En pantallas angostas los mismos enlaces aparecen bajo el texto del panel. El texto de los paneles y del laboratorio no cambia.
+
+| Claim | Qué lo desmentiría | Verificación | Resultado |
+|---|---|---|---|
+| El recorrido web de este repositorio es el publicado en `themultiverse.school/x/pensamiento-creatividad`. | Que el contenido de `<body>` de `interactive/recorrido-web/index.html` no aparezca literal en la página pública. | Comparación de texto contra una petición anónima a la página pública, 2026-10-20. | PASS |
+| Desde cada panel se llega a cada uno de los cuatro paneles, al laboratorio y (desde los paneles 02 a 04) al panel 01, y la barra de etapas del laboratorio vuelve al panel 01. | Que falle alguna de las cuatro comprobaciones automatizadas nuevas. | Recorrido automatizado en Chromium a 1440, 1024 y 500 px de ancho, 2026-10-20. | PASS |
+| El resto del recorrido sigue funcionando abierto como archivo local: los paneles avanzan, el último panel entra al laboratorio, el laboratorio corre de inicio a cierre, las respuestas persisten y no hay desborde horizontal en pantalla angosta. | Que falle alguna de las otras 42 comprobaciones automatizadas. | El mismo recorrido, 2026-10-20. | PASS |
 
 ### 0.1.2 · 2026-10-12
 

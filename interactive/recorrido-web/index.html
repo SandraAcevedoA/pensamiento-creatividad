@@ -198,6 +198,18 @@ main.page-wrapper>h1{display:none}
 .ghi{color:var(--acc)}.ghg{color:var(--grn-t)}
 .gcap .tg b{font-weight:700;color:var(--acc)}
 .gnav{display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;margin-top:10px}
+/* navegación propia del recorrido: índice de paneles, vuelta al inicio y salto al laboratorio */
+.gbox a.gi:hover,.gbox a.gh:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.gix{display:flex;flex-wrap:wrap;align-items:center;gap:0 18px;border-top:1px solid var(--brd);padding-top:6px;font-family:var(--fd);font-weight:700;font-size:12px;letter-spacing:.07em;text-transform:uppercase}
+.gix a{color:var(--fg-d);text-decoration:none;min-height:44px;display:inline-flex;align-items:center}
+.gix a:hover{color:var(--fg-b)}
+.gix a[aria-current]{color:var(--fg-b);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:6px}
+.gix sup{font-size:8px;margin-right:4px}
+.gix a.gl{color:var(--acc)}
+.gix a.gh,.tn-g{font-family:Sacramento,cursive;font-weight:400;font-size:30px;letter-spacing:0;text-transform:none;color:#6fe0d6;text-decoration:none}
+.tn-h{display:flex;align-items:center;gap:14px;min-width:0}
+.tn-g{min-height:44px;display:inline-flex;align-items:center;gap:8px;padding:0 4px;line-height:1;white-space:nowrap}
+.tn-g:hover{color:var(--fg-b)}
 #gp-creatividad .gbox a{color:#81817c}#gp-creatividad .gbox a:hover{color:#fffff3}
 #gp-proceso .gbox a{color:#161615}#gp-proceso .gbox a:hover{color:#3a3a37}
 #gp-mediacion .gbox a{color:#d6d6d0}#gp-mediacion .gbox a:hover{color:#fffff3}
@@ -223,12 +235,14 @@ main.page-wrapper>h1{display:none}
 <h1 style="margin: 0; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 46px; line-height: 1; letter-spacing: -0.04em; text-transform: uppercase; color: #fffff3">Creatividad</h1>
 <p style="margin: 6px 0 0 0; font-weight: 300; font-size: 25px; line-height: 1.4; letter-spacing: -0.015em; color: #b9b9b5">Pensemos el concepto de creatividad no como un ‘don’ o una cualidad especial de algunas personas, sino como <span style="font-weight: 400; color: #e2b028">una modalidad que conecta nuestro pensamiento con nuestra capacidad lúdica.</span></p>
 </div>
-<div style="position: absolute; right: 56px; top: 768px; display: flex; flex-direction: row; gap: 22px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
-<span aria-current="step" style="color: #fffff3; border-bottom: 2px solid #fffff3; padding-bottom: 3px"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</span>
-</div>
+<nav aria-label="Paneles del grounding" style="position: absolute; right: 56px; top: 756px; display: flex; flex-direction: row; align-items: flex-end; gap: 18px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
+<a class="gi" href="#creatividad" aria-current="step" style="color: #fffff3; text-decoration: none; border-bottom: 2px solid #fffff3; padding: 12px 0 3px 0"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</a>
+<a class="gi" href="#proceso" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</a>
+<a class="gi" href="#mediacion" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</a>
+<a class="gi" href="#criterio" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</a>
+<a class="gi" href="#laboratorio" style="color: #e2b028; text-decoration: none; padding: 12px 0 5px 0; display: flex; align-items: center; gap: 7px">Laboratorio
+<svg width="7" height="12" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 2 L12 12 L2 22"></path></svg></a>
+</nav>
 
 <a href="#proceso" aria-label="Siguiente: proceso" style="position: absolute; left: 1392px; top: 383px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center">
 <svg width="14" height="24" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 2 L12 12 L2 22"></path></svg>
@@ -240,6 +254,7 @@ main.page-wrapper>h1{display:none}
 <p class="gtx">Pensemos el concepto de creatividad no como un ‘don’ o una cualidad especial de algunas personas, sino como <span class="ghi">una modalidad que conecta nuestro pensamiento con nuestra capacidad lúdica.</span></p>
 
 <div class="gnav"><span></span><a class="bt bp" href="#proceso">Siguiente</a></div>
+<nav class="gix" aria-label="Paneles del grounding"><a href="#creatividad" aria-current="step"><sup>1</sup>Creatividad</a><a href="#proceso"><sup>2</sup>Proceso</a><a href="#mediacion"><sup>3</sup>Mediación</a><a href="#criterio"><sup>4</sup>Criterio</a><a class="gl" href="#laboratorio">Laboratorio</a></nav>
 </div>
 </section>
 <section class="gp" id="gp-proceso" aria-label="02 · Proceso" hidden>
@@ -281,12 +296,16 @@ main.page-wrapper>h1{display:none}
 <div style="position: absolute; left: 794px; top: 606px; max-width: 150px; padding: 2px 5px; background: #e2b028; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 14px; line-height: 1.15; letter-spacing: 0.05em; text-transform: uppercase; color: #161615">Generación de posibilidades</div>
 <div style="position: absolute; left: 996px; top: 446px; max-width: 110px; padding: 2px 5px; background: #e2b028; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 14px; line-height: 1.15; letter-spacing: 0.05em; text-transform: uppercase; color: #161615">Iteración</div>
 <div style="position: absolute; left: 1176px; top: 502px; max-width: 116px; padding: 2px 5px; background: #e2b028; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 14px; line-height: 1.15; letter-spacing: 0.05em; text-transform: uppercase; color: #161615">Realización</div>
-<div style="position: absolute; right: 56px; top: 768px; display: flex; flex-direction: row; gap: 22px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
-<span style="color: rgba(22,22,21,0.74); padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</span>
-<span aria-current="step" style="color: #161615; border-bottom: 2px solid #161615; padding-bottom: 3px"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</span>
-<span style="color: rgba(22,22,21,0.74); padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</span>
-<span style="color: rgba(22,22,21,0.74); padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</span>
-</div>
+<nav aria-label="Paneles del grounding" style="position: absolute; right: 56px; top: 756px; display: flex; flex-direction: row; align-items: flex-end; gap: 18px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
+<a class="gi" href="#creatividad" style="color: rgba(22,22,21,0.74); text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</a>
+<a class="gi" href="#proceso" aria-current="step" style="color: #161615; text-decoration: none; border-bottom: 2px solid #161615; padding: 12px 0 3px 0"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</a>
+<a class="gi" href="#mediacion" style="color: rgba(22,22,21,0.74); text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</a>
+<a class="gi" href="#criterio" style="color: rgba(22,22,21,0.74); text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</a>
+<a class="gi" href="#laboratorio" style="color: #161615; text-decoration: none; padding: 12px 0 5px 0; display: flex; align-items: center; gap: 7px">Laboratorio
+<svg width="7" height="12" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 2 L12 12 L2 22"></path></svg></a>
+</nav>
+<a class="gh" href="#creatividad" aria-label="Inicio: volver al panel 01, Creatividad" style="position: absolute; left: 44px; top: 86px; height: 44px; padding: 0 12px; display: flex; align-items: center; gap: 10px; color: #161615; text-decoration: none; font-family: Sacramento, cursive; font-size: 40px; line-height: 1">
+<svg width="9" height="16" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>inicio</a>
 
 <a href="#creatividad" aria-label="Anterior: creatividad" style="position: absolute; left: 4px; top: 383px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center">
 <svg width="14" height="24" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>
@@ -301,6 +320,7 @@ main.page-wrapper>h1{display:none}
 <p class="gtx">Si entendemos la creatividad como un proceso, más que como un ‘don’, podremos identificar en qué lugares existe un espacio natural para delegar a la inteligencia artificial y en cuáles hacerlo compromete el resultado deseado.</p>
 <div class="mr"><span class="tg">Intención / orientación</span><span class="tg">Experiencia y referencias</span><span class="tg">Exploración</span><span class="tg">Interpretación</span><span class="tg">Elección</span><span class="tg">Evaluación</span><span class="tg">Transformación</span><span class="tg">Generación de posibilidades</span><span class="tg">Iteración</span><span class="tg">Realización</span></div>
 <div class="gnav"><a class="bt bg" href="#creatividad">Anterior</a><a class="bt bp" href="#mediacion">Siguiente</a></div>
+<nav class="gix" aria-label="Paneles del grounding"><a class="gh" href="#creatividad" aria-label="Inicio: volver al panel 01, Creatividad">inicio</a><a href="#creatividad"><sup>1</sup>Creatividad</a><a href="#proceso" aria-current="step"><sup>2</sup>Proceso</a><a href="#mediacion"><sup>3</sup>Mediación</a><a href="#criterio"><sup>4</sup>Criterio</a><a class="gl" href="#laboratorio">Laboratorio</a></nav>
 </div>
 </section>
 <section class="gp" id="gp-mediacion" aria-label="03 · Mediación" hidden>
@@ -357,12 +377,16 @@ main.page-wrapper>h1{display:none}
 <div style="position: absolute; left: 996px; top: 446px; max-width: 110px; padding: 2px 5px; background: #161615; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 14px; line-height: 1.15; letter-spacing: 0.05em; text-transform: uppercase; color: #fffff3">Iteración</div>
 <div style="position: absolute; left: 1176px; top: 502px; max-width: 116px; padding: 2px 5px; background: #161615; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 14px; line-height: 1.15; letter-spacing: 0.05em; text-transform: uppercase; color: #fffff3">Realización</div>
 <div style="position: absolute; left: 1181px; top: 524px; padding: 3px 7px; background: #161615; border: 1px solid #e2b028; border-radius: 2px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.08em; text-transform: uppercase; color: #e2b028">IA · ejecutar</div>
-<div style="position: absolute; right: 56px; top: 768px; display: flex; flex-direction: row; gap: 22px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</span>
-<span aria-current="step" style="color: #fffff3; border-bottom: 2px solid #fffff3; padding-bottom: 3px"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</span>
-</div>
+<nav aria-label="Paneles del grounding" style="position: absolute; right: 56px; top: 756px; display: flex; flex-direction: row; align-items: flex-end; gap: 18px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
+<a class="gi" href="#creatividad" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</a>
+<a class="gi" href="#proceso" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</a>
+<a class="gi" href="#mediacion" aria-current="step" style="color: #fffff3; text-decoration: none; border-bottom: 2px solid #fffff3; padding: 12px 0 3px 0"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</a>
+<a class="gi" href="#criterio" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</a>
+<a class="gi" href="#laboratorio" style="color: #e2b028; text-decoration: none; padding: 12px 0 5px 0; display: flex; align-items: center; gap: 7px">Laboratorio
+<svg width="7" height="12" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 2 L12 12 L2 22"></path></svg></a>
+</nav>
+<a class="gh" href="#creatividad" aria-label="Inicio: volver al panel 01, Creatividad" style="position: absolute; left: 44px; top: 86px; height: 44px; padding: 0 12px; display: flex; align-items: center; gap: 10px; color: #6fe0d6; text-decoration: none; font-family: Sacramento, cursive; font-size: 40px; line-height: 1">
+<svg width="9" height="16" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>inicio</a>
 
 <a href="#proceso" aria-label="Anterior: proceso" style="position: absolute; left: 4px; top: 383px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center">
 <svg width="14" height="24" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>
@@ -377,6 +401,7 @@ main.page-wrapper>h1{display:none}
 <p class="gtx">En el contexto creativo, las herramientas clásicas y análogas siempre han ocupado un rol mediador para el humano. <span class="ghi">Ahora, la IA asume también ese rol mediador, desafiando los límites de la delegación.</span></p>
 <div class="mr"><span class="tg">Intención / orientación</span><span class="tg ta">Experiencia y referencias <b>IA · buscar</b></span><span class="tg">Exploración</span><span class="tg ta">Interpretación <b>IA · analizar</b></span><span class="tg">Elección</span><span class="tg ta">Evaluación <b>IA · comparar</b></span><span class="tg ta">Transformación <b>IA · transformar</b></span><span class="tg ta">Generación de posibilidades <b>IA · generar</b></span><span class="tg">Iteración</span><span class="tg ta">Realización <b>IA · ejecutar</b></span></div><p class="cap">Stephanie Dinkins · <i>Conversations with Bina48</i>, 2014–</p>
 <div class="gnav"><a class="bt bg" href="#proceso">Anterior</a><a class="bt bp" href="#criterio">Siguiente</a></div>
+<nav class="gix" aria-label="Paneles del grounding"><a class="gh" href="#creatividad" aria-label="Inicio: volver al panel 01, Creatividad">inicio</a><a href="#creatividad"><sup>1</sup>Creatividad</a><a href="#proceso"><sup>2</sup>Proceso</a><a href="#mediacion" aria-current="step"><sup>3</sup>Mediación</a><a href="#criterio"><sup>4</sup>Criterio</a><a class="gl" href="#laboratorio">Laboratorio</a></nav>
 </div>
 </section>
 <section class="gp" id="gp-criterio" aria-label="04 · Criterio" hidden>
@@ -400,12 +425,16 @@ main.page-wrapper>h1{display:none}
 
 <p style="position: absolute; left: 664px; top: 146px; width: 640px; margin: 0; font-weight: 300; font-size: 21px; line-height: 1.42; letter-spacing: -0.012em; color: #b9b9b5">Está en directa relación con el resultado final que quieres obtener, y puedes encontrarlo incluso en decisiones tan cotidianas como el sabor del yogurt que vas a comer o el color de la camisa que usarás hoy.</p>
 <p style="position: absolute; left: 664px; bottom: 72px; width: 700px; margin: 0; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 45px; line-height: 1.03; letter-spacing: -0.04em; text-transform: uppercase; color: #fffff3">El criterio es el estándar personal desde el que decides <span style="color: #12b377">qué aceptar, qué modificar y qué rechazar.</span></p>
-<div style="position: absolute; right: 56px; top: 768px; display: flex; flex-direction: row; gap: 22px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</span>
-<span style="color: #8d8d88; padding-bottom: 5px"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</span>
-<span aria-current="step" style="color: #fffff3; border-bottom: 2px solid #fffff3; padding-bottom: 3px"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</span>
-</div>
+<nav aria-label="Paneles del grounding" style="position: absolute; right: 56px; top: 756px; display: flex; flex-direction: row; align-items: flex-end; gap: 18px; font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; font-size: 12px; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase">
+<a class="gi" href="#creatividad" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">1</sup>Creatividad</a>
+<a class="gi" href="#proceso" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">2</sup>Proceso</a>
+<a class="gi" href="#mediacion" style="color: #8d8d88; text-decoration: none; padding: 12px 0 5px 0"><sup style="font-size: 8px; margin-right: 4px">3</sup>Mediación</a>
+<a class="gi" href="#criterio" aria-current="step" style="color: #fffff3; text-decoration: none; border-bottom: 2px solid #fffff3; padding: 12px 0 3px 0"><sup style="font-size: 8px; margin-right: 4px">4</sup>Criterio</a>
+<a class="gi" href="#laboratorio" style="color: #e2b028; text-decoration: none; padding: 12px 0 5px 0; display: flex; align-items: center; gap: 7px">Laboratorio
+<svg width="7" height="12" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 2 L12 12 L2 22"></path></svg></a>
+</nav>
+<a class="gh" href="#creatividad" aria-label="Inicio: volver al panel 01, Creatividad" style="position: absolute; left: 44px; top: 86px; height: 44px; padding: 0 12px; display: flex; align-items: center; gap: 10px; color: #6fe0d6; text-decoration: none; font-family: Sacramento, cursive; font-size: 40px; line-height: 1">
+<svg width="9" height="16" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>inicio</a>
 
 <a href="#mediacion" aria-label="Anterior: mediación" style="position: absolute; left: 4px; top: 383px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center">
 <svg width="14" height="24" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>
@@ -421,13 +450,14 @@ main.page-wrapper>h1{display:none}
 <p class="gtx">El criterio es el estándar personal desde el que decides <span class="ghg">qué aceptar, qué modificar y qué rechazar.</span></p>
 <p class="cap">Holly Herndon · <i>PROTO</i>, 2019</p>
 <div class="gnav"><a class="bt bg" href="#mediacion">Anterior</a><a class="bt bp" href="#laboratorio">Entrar al laboratorio</a></div>
+<nav class="gix" aria-label="Paneles del grounding"><a class="gh" href="#creatividad" aria-label="Inicio: volver al panel 01, Creatividad">inicio</a><a href="#creatividad"><sup>1</sup>Creatividad</a><a href="#proceso"><sup>2</sup>Proceso</a><a href="#mediacion"><sup>3</sup>Mediación</a><a href="#criterio" aria-current="step"><sup>4</sup>Criterio</a><a class="gl" href="#laboratorio">Laboratorio</a></nav>
 </div>
 </section>
 </div>
 
 <div id="lab" hidden>
 <nav class="tn" id="tn" hidden aria-label="Etapas del laboratorio">
-  <span class="tn-b">CMIA</span>
+  <span class="tn-h"><a class="tn-g" href="#creatividad" aria-label="Volver al grounding: panel 01, Creatividad"><svg width="8" height="14" viewBox="0 0 14 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 L2 12 L12 22"></path></svg>grounding</a><span class="tn-b">CMIA</span></span>
   <div class="tn-s" id="tns"></div>
   <span class="nr" id="tnr" hidden></span>
 </nav>
@@ -559,7 +589,7 @@ function s0(){
 <p class="tx">Elige algo suficientemente pequeño para trabajarlo durante esta sesión. Puede ser una pieza, una idea, un texto, una imagen, una decisión de diseño, una estructura, una investigación o cualquier otro objeto creativo que puedas llevar a un primer resultado hoy.</p>
 <div style="max-width:820px">${F('proyecto','Mi proyecto / desafío','ta','')}</div>
 <p class="cap">Todavía no usamos IA. En esta sesión necesitamos primero un punto de partida que puedas reconocer como tuyo.</p>
-<div class="row" style="margin-top:8px"><button type="button" class="bt bp" onclick="go(1)">Empezar por mi punto de partida</button><button type="button" class="bt bg" onclick="showHow()">Cómo funciona</button>${typeof vista==='function'?'<a class="bt bg" href="#criterio">Volver al grounding</a>':''}</div>
+<div class="row" style="margin-top:8px"><button type="button" class="bt bp" onclick="go(1)">Empezar por mi punto de partida</button><button type="button" class="bt bg" onclick="showHow()">Cómo funciona</button>${typeof vista==='function'?'<a class="bt bg" href="#creatividad">Volver al grounding</a>':''}</div>
 <div class="af" style="margin-top:28px"><span class="afb">Multiverso · Sandra Acevedo · Acevedology</span></div>
 </div>`;
 }
